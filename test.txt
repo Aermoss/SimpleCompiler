@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main() {
+    print(120);
+    return 0;
+}
