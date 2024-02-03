@@ -13,7 +13,7 @@ python main.py run test.txt
 ```
 
 ## Writing a simple program
-There are only void's and int's in this language so we can't print out "Hello, World"
+There are only void's and int's in this language so we can't print out "Hello, World!"
 ```c++
 #include <iostream>
 
