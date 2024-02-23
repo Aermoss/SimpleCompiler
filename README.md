@@ -1,5 +1,5 @@
 # Simple Compiler
-A simple programming language frontend written in python using llvmlite.
+A simple programming language frontend written in Python using LLVM.
 
 # Getting Started
 ## Building a program
